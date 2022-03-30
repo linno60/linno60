@@ -4,7 +4,7 @@
 - Working on my personal portfolio
 - Looking for a job
 
-## About me
+## ☺️	 About me
 Hello! 👋 I'm Lin.
 - Front-end development enthusiast
 - Experienced with React, HTML, CSS, JavaScript
