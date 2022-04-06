@@ -1,5 +1,5 @@
 ## 🤔 What I'm doing recently
-- Studying ReactJS
+- Studying ReactJS, TypeScript, Sass
 - Reviewing HTML, CSS, JavaScript
 - Working on my personal portfolio
 - Looking for a job
