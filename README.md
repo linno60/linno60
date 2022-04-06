@@ -1,7 +1,6 @@
 ## 🤔 What I'm doing recently
 - Studying ReactJS, TypeScript, Sass
-- Reviewing HTML, CSS, JavaScript
-- Working on my personal portfolio
+- Working on my portfolio
 - Looking for a job
 
 ## ☺️	 About me
