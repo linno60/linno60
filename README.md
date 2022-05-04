@@ -1,7 +1,3 @@
-## 🤔 What I'm doing recently
-- Working on my portfolio
-- Looking for a job
-
 ## ☺️	 About me
 Hello! 👋 I'm Lin.
 - Front-end development enthusiast
